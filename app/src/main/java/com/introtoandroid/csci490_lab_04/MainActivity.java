@@ -14,5 +14,5 @@ public class MainActivity extends AppCompatActivity {
         WebView webview = new WebView(this);
         setContentView(webview);
         webview.loadUrl("https://www.google.com/");
-    }
+    } 
 }
